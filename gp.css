@@ -1,0 +1,67 @@
+.slider circle.slidermv {
+  fill: #c00;
+  stroke: none;
+}
+.slider line.sliderbg {
+  stroke: #000;
+  fill: none;
+  stroke-width: 2px;
+  stroke-linecap: round;
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+  stroke-width: 1.5px;
+}
+.trpoints {
+  fill: #000;
+}
+.line {
+  fill: none;
+  stroke-width: 1.5px;
+}
+.muline {
+  //stroke-dasharray: 10,10;
+  opacity: 0.5;
+}
+.sdline {
+  //stroke-dasharray: 5,10;
+  opacity: 0.5;
+}
+.line1 { stroke: #204a87; }
+.tr1 { border-left: 24px solid #204a87; }
+.line2 { stroke: #ce5c00; }
+.tr2 { border-left: 24px solid #ce5c00; }
+.line3 { stroke: #ad7fa8; }
+.tr3 { border-left: 24px solid #ad7fa8; }
+.line4 { stroke: #4e9a06; }
+.tr4 { border-left: 24px solid #4e9a06; }
+.line5 { stroke: #c4a000; }
+.tr5 { border-left: 24px solid #c4a000; }
+.line6 { stroke: #a40000; }
+.tr6 { border-left: 24px solid #a40000; }
+.line7 { stroke: #2e3436; }
+.tr7 { border-left: 24px solid #2e3436; }
+.line8 { stroke: #e9b96e; }
+.tr8 { border-left: 24px solid #e9b96e; }
+.line9 { stroke: #8f5902; }
+.tr9 { border-left: 24px solid #8f5902; }
+.line10 { stroke: #5c3566; }
+.tr10 { border-left: 24px solid #5c3566; }
+td {
+  padding: 0 5px;
+}
+th {
+  border-bottom: 2px solid #000;
+}
+button[disabled=disabled], button:disabled {
+  text-decoration: line-through;
+}
+input, button, select {
+  font: inherit;
+}
+.info {
+  color: #c00;
+}

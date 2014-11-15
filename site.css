@@ -1,0 +1,33 @@
+body {
+  font-family: 'Lora', serif;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  background: repeat url('bgrep4.png');
+  color: #222;
+}
+h1 {
+  font-family: 'Special Elite', cursive;
+  font-size: 28px;
+  color: #222;
+}
+h1#sitetitle {
+  font-size: 10px;
+}
+a {
+  color: #222;
+}
+a:hover {
+  text-decoration: none;
+}
+#main {
+  margin: auto;
+  width: 802px;
+}
+#tmain {
+  margin: 0;
+  margin-top: 28px;
+
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
