@@ -17,3 +17,12 @@ Continuous trajectories are simulated using Hamiltonian Monte Carlo (HMC) with p
 
 For an excellent HMC reference, see: Radford M. Neal, _MCMC using Hamiltonian dynamics_. [arXiv:1206.1901](http://arxiv.org/abs/1206.1901), 2012.
 
+Contact
+-------
+
+E-mail: tomi.peltola@aalto.fi
+
+License
+-------
+
+MIT. See `LICENSE`.
